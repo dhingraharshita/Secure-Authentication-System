@@ -1,0 +1,54 @@
+{% extends "base.html" %}
+
+{% block title %}Register{% endblock %}
+
+{% block content %}
+
+<div class="container mt-5">
+
+<div class="row align-items-center">
+
+<div class="col-md-6 hero-text">
+    <h1>Secure Authentication System</h1>
+    <p>
+        Internship Project using Flask, JWT,
+        OTP Verification and Role-Based Access.
+    </p>
+</div>
+
+<div class="col-md-6">
+
+<div class="auth-card">
+
+<h2 class="text-center mb-4">
+Create Account
+</h2>
+
+<form action="/auth/register" method="POST">
+
+<input class="form-control mb-3"
+name="username"
+placeholder="Username">
+
+<input class="form-control mb-3"
+name="email"
+placeholder="Email">
+
+<input class="form-control mb-3"
+type="password"
+name="password"
+placeholder="Password">
+
+<button class="btn btn-custom w-100">
+Register
+</button>
+
+</form>
+
+</div>
+</div>
+
+</div>
+</div>
+
+{% endblock %}
