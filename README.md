@@ -21,15 +21,18 @@ A modern Flask-based authentication system designed with security, scalability, 
 
 ### Registration Page
 
-![Registration Page](screenshots/register-page.png)
+<img width="1918" height="905" alt="Screenshot 2026-06-24 151323" src="https://github.com/user-attachments/assets/c0852c29-8c1c-4964-891f-53f4fcdb0e6b" />
+
 
 ### Login Page
 
-![Login Page](screenshots/login-page.png)
+<img width="1907" height="903" alt="Screenshot 2026-06-24 151344" src="https://github.com/user-attachments/assets/4bab9ca8-e6d0-47cf-996c-de4e4e319917" />
+
 
 ### Dashboard
 
-![Dashboard](screenshots/dashboard.png)
+<img width="1893" height="896" alt="Screenshot 2026-06-24 151549" src="https://github.com/user-attachments/assets/763b8bc9-bbf9-4b78-8780-b95bea958743" />
+
 
 
 ## 🛠 Tech Stack
