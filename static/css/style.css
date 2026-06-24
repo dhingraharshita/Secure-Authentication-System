@@ -1,0 +1,86 @@
+body{
+    background: linear-gradient(135deg,#0f172a,#1e3a8a);
+    min-height:100vh;
+    font-family:'Segoe UI',sans-serif;
+}
+
+.auth-card{
+    background:rgba(255,255,255,0.1);
+    backdrop-filter:blur(15px);
+    border-radius:20px;
+    padding:35px;
+    color:white;
+    box-shadow:0 8px 30px rgba(0,0,0,0.3);
+}
+
+.form-control{
+    border-radius:12px;
+}
+
+.btn-custom{
+    background:#2563eb;
+    color:white;
+    border:none;
+    border-radius:12px;
+    padding:10px;
+}
+
+.btn-custom:hover{
+    background:#1d4ed8;
+}
+
+.hero-text{
+    color:white;
+}
+
+.dashboard-card{
+    border:none;
+    border-radius:15px;
+    box-shadow:0 5px 20px rgba(0,0,0,.15);
+}
+.form-control{
+    height:50px;
+    border-radius:15px;
+    border:none;
+}
+
+.form-control:focus{
+    box-shadow:0 0 15px rgba(37,99,235,.4);
+}
+
+
+.dashboard-card{
+    border:none;
+    border-radius:20px;
+    box-shadow:0 10px 25px rgba(0,0,0,.15);
+}
+
+.table{
+    background:white;
+}
+.sidebar{
+    background:#0f172a;
+    min-height:100vh;
+    padding-top:20px;
+}
+
+.sidebar a{
+    display:block;
+    color:white;
+    text-decoration:none;
+    padding:15px 20px;
+    margin:8px;
+    border-radius:10px;
+    transition:0.3s;
+}
+
+.sidebar a:hover{
+    background:#2563eb;
+    color:white;
+}
+
+.dashboard-card{
+    border:none;
+    border-radius:20px;
+    box-shadow:0 8px 20px rgba(0,0,0,0.15);
+}
