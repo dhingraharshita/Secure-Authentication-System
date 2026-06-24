@@ -17,6 +17,21 @@ A modern Flask-based authentication system designed with security, scalability, 
 * Login Activity Tracking Structure
 * Professional Flask Project Architecture
 
+## 📸 Screenshots
+
+### Registration Page
+
+![Registration Page](screenshots/register-page.png)
+
+### Login Page
+
+![Login Page](screenshots/login-page.png)
+
+### Dashboard
+
+![Dashboard](screenshots/dashboard.png)
+
+
 ## 🛠 Tech Stack
 
 ### Backend
